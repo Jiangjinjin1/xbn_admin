@@ -15,7 +15,7 @@ if (process.env.NODE_ENV == 'development') {
 	imgBaseUrl = 'http://image.dev.atcdeal.com';
 	routerMode = 'hash'
 }else{
-	baseUrl = 'http://127.0.0.1:8111';
+	baseUrl = 'http://erha.smallerha.com:8111';
 	imgBaseUrl = 'http://image.atcdeal.com';
 	routerMode = 'hash'
 }
